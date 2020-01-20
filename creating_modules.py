@@ -60,8 +60,8 @@ print(next(a.read_file('iris.csv')))
 
 
 
-# # loading a file
-# with open('iris.csv', 'r') as file2:
+# loading a file
+with open('iris.csv', 'r') as file2:
 #     file2.readlines()
 
 
